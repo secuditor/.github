@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://vshymanskyy.github.io/StandWithUkraine">
-    <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" width="200" />
+  <a href="https://secuditor.com">
+    <img src="https://github.com/secuditor/secuditor-site/blob/main/preview.png" />
   </a>
 </p>
