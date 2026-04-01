@@ -1,5 +1,3 @@
-<div align="center" style="line-height: 0;">
-  <a href="https://github.com/secuditor">
-    <img src="Secuditor-logo-transparent.png" alt="Secuditor Project logo" width="400" height="400">
-  </a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=secuditor&style=for-the-badge" width="200" />
+</p>
